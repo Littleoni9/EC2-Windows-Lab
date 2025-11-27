@@ -6,22 +6,22 @@ I practiced launching a Windows EC2 instance, connecting via **RDP**, installing
 ## Screenshots
 
 ### 1. EC2 Instance Details
-![EC2 Details](screenshots/screenshot1-ec2-details.png)
+![EC2 Details](Screenshot/screenshot1-ec2-details.png)
 
 ### 2. RDP Login Window
-![RDP Login](screenshots/screenshot3-rdp-login.png)
+![RDP Login](Screenshot/screenshot2-rdp-login.png)
 
 ### 3. Windows Desktop
-![Windows Desktop](screenshots/screenshot4-windows-desktop.png)
+![Windows Desktop](Screenshot/screenshot3-windows-desktop.jpeg)
 
 ### 4. Notepad++ Installed
-![Notepad++ Installed](screenshots/screenshot5-notepad-installed.png)
+![Notepad++ Installed](Screenshot/screenshot4-notepad-installed.jpeg)
 
 ### 5. Instance Stopped/Terminated
-![Instance Stopped](screenshots/screenshot6-instance-stopped.png)
+![Instance Stopped](Screenshot/screenshot5-instance-stopped.png)
 
 ## Detailed Steps
-For full step-by-step instructions, see [notes/steps.md](notes/steps.md)
+For full step-by-step instructions, see [Notes/steps.md](notes/steps.md)
 
 ## Tools Used
 - **AWS EC2** (Windows Server 2019)  
